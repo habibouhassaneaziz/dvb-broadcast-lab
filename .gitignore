@@ -1,0 +1,10 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Binary test files
+*.bin
+
+# OS files
+.DS_Store
+Thumbs.db
